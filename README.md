@@ -13,6 +13,13 @@
 <h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
 <h3 align="center">Junior Data Analyst | Skilled in Excel, SQL, Python, and Power BI</h3>
 
+## 👨‍💻 About Me
+
+I'm a Junior Data Analyst passionate about turning raw data into meaningful insights.  
+Skilled in SQL, Python, Excel, and Power BI.  
+Currently pursuing my B.Sc. in Artificial Intelligence at Benha National University.  
+I love building dashboards, analyzing trends, and continuously learning new tools!
+
 ---
 
 - 📫 Reach me at **omarramadan88888888g@gmail.com**
