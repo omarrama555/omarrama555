@@ -35,3 +35,56 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 
 
 
+
+
+
+
+
+## 📜 Certificates
+
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Python Programming Basic</td>
+    <td><a href="https://drive.google.com/file/d/1P-foc6eZST_iDAcoOnE0UUY6fFk4ocME/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>SQL For Data Analysis</td>
+    <td><a href="https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>Excel for Data Analysis</td>
+    <td><a href="https://drive.google.com/file/d/1FsZ7vMDntdybO6u-xYmdPsh6gcz-IW3K/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>Data Analyst Prerequisite</td>
+    <td><a href="https://drive.google.com/file/d/1PpByubzIdNrk5W0pKUOslc0kaSLM6HrQ/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>Database Fundamental</td>
+    <td><a href="https://drive.google.com/file/d/1PKu0C77eMY2grVSpQE5x5Wv_U4APwI1f/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>ECPC Programming</td>
+    <td><a href="https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>CCNA Certificate</td>
+    <td><a href="https://drive.google.com/file/d/1FppdB6sUiz25nkymH02688Ux469T5pUh/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>Data Analysis with Python</td>
+    <td><a href="https://drive.google.com/file/d/1G9JbK3pQtcbiES4Gt4qgCOxA2v5U5Pri/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>Data Visualization & Storytelling</td>
+    <td><a href="https://drive.google.com/file/d/1GCrBjmsaTOqoT9bfukG_fndZE8DJ_c6L/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+  <tr>
+    <td>Freelancing Certificate</td>
+    <td><a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk" target="_blank">View</a></td>
+  </tr>
+</table>
