@@ -36,6 +36,12 @@
 
 
 
+
+## 🧱 3D Contribution Graph
+
+![3D Profile Contribution](https://raw.githubusercontent.com/omarrama555/omarrama555/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+
 <!-- 👋 Hi There -->
 <h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
 <h3 align="center">Junior Data Analyst | Skilled in Excel, SQL, Python, and Power BI</h3>
