@@ -10,12 +10,10 @@
 
 
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-
-<!-- Requires linking WakaTime to GitHub -->
-[![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarrama555&theme=radical)](https://wakatime.com/@omarrama555)
 
 
 
@@ -23,10 +21,14 @@
 
 
 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Snake animation](https://github.com/omarrama555/omarrama555/blob/output/github-contribution-grid-snake.svg) 
+
+
+
 
 <!-- 👋 Hi There -->
 <h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
