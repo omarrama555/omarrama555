@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **omarramadan88888888g@gmail.com**
 
-- 📄 Check out my [CV](https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk)
+- 📄 Check out my [CV](https://drive.google.com/file/d/1PomQT_g22FvhLOiY-45NID_4ismZj2aG/view?usp=drivesdk)
 
 - 💼 LinkedIn: [linkedin.com/in/omarramadan555](https://www.linkedin.com/in/omarramadan555)
 
