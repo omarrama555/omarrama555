@@ -17,6 +17,10 @@
 <!-- Requires linking WakaTime to GitHub -->
 [![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarrama555&theme=radical)](https://wakatime.com/@omarrama555)
 
+
+
+[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- 👋 Hi There -->
 <h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
 <h3 align="center">Junior Data Analyst | Skilled in Excel, SQL, Python, and Power BI</h3>
