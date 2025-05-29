@@ -126,6 +126,56 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 
 
 
+
+
+
+
+
+
+
+
+
+## 📂 Projects
+
+### 📧 Spam Message Classification (NLP + GUI)
+- 🧠 An NLP project that classifies messages as **Spam** or **Not Spam** using machine learning algorithms.
+- 🧹 Includes data cleaning, feature extraction with **TF-IDF**, and models like Naive Bayes and Logistic Regression.
+- 🖥️ Features a **Graphical User Interface (GUI)** built with Tkinter for interactive testing.
+- 📁 [View Project Files](https://drive.google.com/drive/folders/1c45PXRVD9Vx47ASadwcgEg1-wBhJX12k)
+
+---
+
+### 📊 Adidas US Sales Dashboard (Power BI + Excel)
+- 📦 A data visualization project analyzing **Adidas sales in the US** using Excel and Power BI.
+- 📈 Built an interactive **dashboard** highlighting key KPIs such as regional sales, store types, and product categories.
+- 🧩 Provides insights to support business decision-making.
+- 📁 [View Project Files](https://drive.google.com/drive/folders/1H4iR1s6thrgRN_IZERiW6pPOlYmgumuA)
+
+---
+
+### 📈 Fortune 1000 Companies Analysis (Python)
+- 🧮 Data analysis project using **Python** to explore and visualize Fortune 1000 company data.
+- 🔍 Applied **Exploratory Data Analysis (EDA)** to understand trends, distributions, and key metrics.
+- 📊 Used libraries like Pandas, Matplotlib, and Seaborn to generate clear and informative visuals.
+- 📁 [View Project Files](https://drive.google.com/drive/folders/1lyAkw6xBbHjOfD7d5ibYWZA1uP8P6rYr)
+
+---
+
+### 🤖 Robot Arm Analysis using Machine Learning
+- 🔬 Combines **machine learning and robotics** to analyze the behavior of a robotic arm.
+- ⚙️ Implements both **forward and inverse kinematics**, and trains ML models to predict motion and positions.
+- 📐 Includes 3D visualization and simulation of the robot arm using Python.
+- 📁 [View Project Files](https://drive.google.com/drive/folders/1SMqJlOhd4zGz_-gRpCSplGkV3oVXeJtj)
+
+
+
+
+
+
+
+
+
+
 ## 🚀 Languages & Tools
 
 <p align="left">
