@@ -31,3 +31,32 @@ Languages: SQL · Python · C++
 Libraries: Pandas · NumPy · Matplotlib · Scikit-learn
 Tools: Power BI · Excel · Tableau · GitHub · VS Code
 Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
+
+
+
+
+
+<h2>📜 Certificates</h2>
+
+<table>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1P-foc6eZST_iDAcoOnE0UUY6fFk4ocME/view?usp=drivesdk" target="_blank">Python Programming Basic</a></td>
+    <td><a href="https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk" target="_blank">SQL for Data Analysis</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1FsZ7vMDntdybO6u-xYmdPsh6gcz-IW3K/view?usp=drivesdk" target="_blank">Excel for Data Analysis</a></td>
+    <td><a href="https://drive.google.com/file/d/1PpByubzIdNrk5W0pKUOslc0kaSLM6HrQ/view?usp=drivesdk" target="_blank">Data Analyst Prerequisite</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1PKu0C77eMY2grVSpQE5x5Wv_U4APwI1f/view?usp=drivesdk" target="_blank">Database Fundamental</a></td>
+    <td><a href="https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk" target="_blank">ECPC Programming</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1FppdB6sUiz25nkymH02688Ux469T5pUh/view?usp=drivesdk" target="_blank">CCNA Certificate</a></td>
+    <td><a href="https://drive.google.com/file/d/1G9JbK3pQtcbiES4Gt4qgCOxA2v5U5Pri/view?usp=drivesdk" target="_blank">Data Analysis with Python</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1GCrBjmsaTOqoT9bfukG_fndZE8DJ_c6L/view?usp=drivesdk" target="_blank">Data Visualization & Storytelling</a></td>
+    <td><a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk" target="_blank">Freelancing Certificate</a></td>
+  </tr>
+</table>
