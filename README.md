@@ -9,6 +9,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=Followers&style=social) 
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
+<!-- Requires linking WakaTime to GitHub -->
+[![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarrama555&theme=radical)](https://wakatime.com/@omarrama555)
+
 <!-- 👋 Hi There -->
 <h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
 <h3 align="center">Junior Data Analyst | Skilled in Excel, SQL, Python, and Power BI</h3>
