@@ -21,6 +21,13 @@
 
 [![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Snake animation](https://github.com/omarrama555/omarrama555/blob/output/github-contribution-grid-snake.svg) 
+
 <!-- 👋 Hi There -->
 <h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
 <h3 align="center">Junior Data Analyst | Skilled in Excel, SQL, Python, and Power BI</h3>
