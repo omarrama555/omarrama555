@@ -95,3 +95,17 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
     <td><a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk" target="_blank">View</a></td>
   </tr>
 </table>
+
+
+
+
+## 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
