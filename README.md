@@ -122,6 +122,13 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
     <td>Freelancing Certificate</td>
     <td><a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk" target="_blank">View</a></td>
   </tr>
+  <tr>
+    <td>Microsoft Powerbi in Fabric</td>
+    <td><a href="https://drive.google.com/file/d/1GFf0L0nJy_V0nPr28yh2Q18lhy3Sfm_O/view?usp=drivesdk " target="_blank">View</a></td>
+  </tr>
+
+
+  
 </table>
 
 
