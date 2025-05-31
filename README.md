@@ -235,19 +235,3 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 
 
 
-## 📜 Certificates
-
-| 📄 Certificate                          | 🔗 Link |
-|----------------------------------------|---------|
-| **Python Programming Basic**           | [View](https://drive.google.com/file/d/1P-foc6eZST_iDAcoOnE0UUY6fFk4ocME/view?usp=drivesdk) |
-| **SQL For Data Analysis**              | [View](https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk) |
-| **Excel for Data Analysis**            | [View](https://drive.google.com/file/d/1FsZ7vMDntdybO6u-xYmdPsh6gcz-IW3K/view?usp=drivesdk) |
-| **Data Analyst Prerequisite**          | [View](https://drive.google.com/file/d/1PpByubzIdNrk5W0pKUOslc0kaSLM6HrQ/view?usp=drivesdk) |
-| **Database Fundamental**               | [View](https://drive.google.com/file/d/1PKu0C77eMY2grVSpQE5x5Wv_U4APwI1f/view?usp=drivesdk) |
-| **ECPC Programming**                   | [View](https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk) |
-| **CCNA Certificate**                   | [View](https://drive.google.com/file/d/1FppdB6sUiz25nkymH02688Ux469T5pUh/view?usp=drivesdk) |
-| **Data Analysis with Python**          | [View](https://drive.google.com/file/d/1G9JbK3pQtcbiES4Gt4qgCOxA2v5U5Pri/view?usp=drivesdk) |
-| **Data Visualization & Storytelling**  | [View](https://drive.google.com/file/d/1GCrBjmsaTOqoT9bfukG_fndZE8DJ_c6L/view?usp=drivesdk) |
-| **Freelancing Certificate**            | [View](https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk) |
-| **Microsoft Power BI in Fabric**       | [View](https://drive.google.com/file/d/1GFf0L0nJy_V0nPr28yh2Q18lhy3Sfm_O/view?usp=drivesdk) |
-| **Learn Data Analysis with Excel**     | [View](https://drive.google.com/file/d/1JGgFR_MUIaNvtMY2BepkHHDwcol0MPEY/view?usp=drivesdk) |
