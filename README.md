@@ -75,64 +75,7 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 
 
 
-## 📜 Certificates
-
-<table>
-  <tr>
-    <th>Certificate</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Python Programming Basic</td>
-    <td><a href="https://drive.google.com/file/d/1P-foc6eZST_iDAcoOnE0UUY6fFk4ocME/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>SQL For Data Analysis</td>
-    <td><a href="https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Excel for Data Analysis</td>
-    <td><a href="https://drive.google.com/file/d/1FsZ7vMDntdybO6u-xYmdPsh6gcz-IW3K/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Data Analyst Prerequisite</td>
-    <td><a href="https://drive.google.com/file/d/1PpByubzIdNrk5W0pKUOslc0kaSLM6HrQ/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Database Fundamental</td>
-    <td><a href="https://drive.google.com/file/d/1PKu0C77eMY2grVSpQE5x5Wv_U4APwI1f/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>ECPC Programming</td>
-    <td><a href="https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>CCNA Certificate</td>
-    <td><a href="https://drive.google.com/file/d/1FppdB6sUiz25nkymH02688Ux469T5pUh/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Data Analysis with Python</td>
-    <td><a href="https://drive.google.com/file/d/1G9JbK3pQtcbiES4Gt4qgCOxA2v5U5Pri/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Data Visualization & Storytelling</td>
-    <td><a href="https://drive.google.com/file/d/1GCrBjmsaTOqoT9bfukG_fndZE8DJ_c6L/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Freelancing Certificate</td>
-    <td><a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk" target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Microsoft Powerbi in Fabric</td>
-    <td><a href="https://drive.google.com/file/d/1GFf0L0nJy_V0nPr28yh2Q18lhy3Sfm_O/view?usp=drivesdk " target="_blank">View</a></td>
-  </tr>
-  <tr>
-    <td>Learn Data Analysis with Excel</td>
-    <td><a href="https://drive.google.com/file/d/1JGgFR_MUIaNvtMY2BepkHHDwcol0MPEY/view?usp=drivesdk " target="_blank">View</a></td>
-  </tr>
-
-  
-</table>
+## 📜 
 
 
 
@@ -182,7 +125,90 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 
 
 
+<h2 align="center">📜 Certificates</h2>
 
+<table style="width:90%; margin:auto; font-size:16px; border-collapse:collapse;">
+  <thead>
+    <tr style="background-color:#4CAF50; color:white;">
+      <th style="padding:10px; border:1px solid #ddd;">Certificate</th>
+      <th style="padding:10px; border:1px solid #ddd;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Python Programming Basic</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1P-foc6eZST_iDAcoOnE0UUY6fFk4ocME/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">SQL For Data Analysis</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Excel for Data Analysis</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1FsZ7vMDntdybO6u-xYmdPsh6gcz-IW3K/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Data Analyst Prerequisite</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1PpByubzIdNrk5W0pKUOslc0kaSLM6HrQ/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Database Fundamental</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1PKu0C77eMY2grVSpQE5x5Wv_U4APwI1f/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">ECPC Programming</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">CCNA Certificate</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1FppdB6sUiz25nkymH02688Ux469T5pUh/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Data Analysis with Python</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1G9JbK3pQtcbiES4Gt4qgCOxA2v5U5Pri/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Data Visualization & Storytelling</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1GCrBjmsaTOqoT9bfukG_fndZE8DJ_c6L/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Freelancing Certificate</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Microsoft Powerbi in Fabric</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1GFf0L0nJy_V0nPr28yh2Q18lhy3Sfm_O/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ddd;">Learn Data Analysis with Excel</td>
+      <td style="padding:10px; border:1px solid #ddd;">
+        <a href="https://drive.google.com/file/d/1JGgFR_MUIaNvtMY2BepkHHDwcol0MPEY/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
