@@ -22,14 +22,11 @@
   </tr>
   <tr align="center">
     <td><img src="https://img.icons8.com/color/60/tableau-software.png"/><br><sub>Tableau</sub></td>
-    <td><img src="https://img.icons8.com/color/60/jupyter.png"/><br><sub>Jupyter</sub></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br><sub>NumPy</sub></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br><sub>Pandas</sub></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br><sub>Matplotlib</sub></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="60"/><br><sub>Seaborn</sub></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60"/><br><sub>Scikit-learn</sub></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/><br><sub>TensorFlow</sub></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><sub>Git</sub></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br><sub>GitHub</sub></td>
@@ -38,7 +35,6 @@
     <td><img src="https://img.icons8.com/color/60/google-colab.png"/><br><sub>Google Colab</sub></td>
   </tr>
 </table>
-
 
 
 
