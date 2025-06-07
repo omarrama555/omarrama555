@@ -207,13 +207,16 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
   </tbody>
 </table>
 
+---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=👀%20Profile%20Views&color=2ecc71&style=for-the-badge)
 
+
+---
 ![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💚%20Followers&style=for-the-badge)
  
 
-
+---
 
 ## 🤝 Let's Connect
 
