@@ -1,13 +1,12 @@
 ## 👋 مرحباً بيك في بروفايلي
+
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=merko)
 
-
-
-
-
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=merko)
 
+---
 
 ## 🚀 Languages & Tools
 
@@ -26,27 +25,17 @@
   <img src="https://img.icons8.com/color/60/google-colab.png"/>
 </p>
 
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-
-
+---
 
 [![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=gruvbox_light&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) 
-
-
-
-
-
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=gruvbox_light&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 👋 Hi There -->
 <h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
