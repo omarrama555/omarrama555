@@ -80,6 +80,56 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 
 ## 📂 Projects
 
+# **Azure Banking Analytics Project Documentation**
+
+## **📌 Project Overview**
+**Project Name:** **Azure-Powered Banking Analytics & Customer Insights**  
+**Objective:** Migrate banking data to Azure, build secure analytics pipelines, and create real-time dashboards for customer behavior, transactions, and risk analysis.
+
+---
+
+## **🔗 Dataset & Project Links**
+- **📂 Banking Dataset:** [Download Here](https://drive.google.com/drive/folders/1mvLguYJN8wkzcmybAWuD1xyJb3OF-7yg)  
+- **📂 Project Files (SQL, PowerBI, Docs):** [Access Here](https://drive.google.com/drive/folders/1-Jf250KQr5I3jMdYpV9T4B_7ZydAdQdj)  
+
+---
+
+## **🛠️ Technical Implementation**
+### **1. Azure Cloud Setup**  
+✔ **Database:** Azure SQL (General Purpose)  
+✔ **Security:** TDE + TLS 1.2, Firewall IP Whitelisting  
+✔ **Disaster Recovery:** Geo-redundant backups + Auto-Failover  
+✔ **Cost Control:** Auto-pause during inactivity  
+
+### **2. SQL Queries (SSMS)**
+```sql
+-- Example: High-risk transactions
+SELECT customer_id, transaction_amount, timestamp 
+FROM transactions 
+WHERE amount > 10000 
+ORDER BY timestamp DESC;
+
+
+
+# Example: Loading data into Power BI
+let
+    Source = Sql.Database("server_name", "database_name"),
+    Transactions = Source{[Schema="dbo",Item="transactions"]}[Data]
+in
+    Transactions
+
+
+# Example: Predictive model for customer churn
+from sklearn.ensemble import RandomForestClassifier
+model = RandomForestClassifier()
+model.fit(X_train, y_train)
+
+
+
+
+
+
+
 ### 📧 Spam Message Classification (NLP + GUI)
 - 🧠 An NLP project that classifies messages as **Spam** or **Not Spam** using machine learning algorithms.
 - 🧹 Includes data cleaning, feature extraction with **TF-IDF**, and models like Naive Bayes and Logistic Regression.
