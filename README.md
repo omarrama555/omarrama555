@@ -1,37 +1,17 @@
 ## 👋 مرحباً بيك في بروفايلي
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=merko)
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=Profile%20views&color=2ecc71&style=flat)
 
+![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=Followers&style=social)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=Profile%20views&color=0e75b6&style=flat) 
-
-
-
-
-![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=Followers&style=social) 
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
-
-
-[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=gruvbox_light&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
 
