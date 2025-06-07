@@ -1,15 +1,49 @@
 ## 👋 مرحباً بيك في بروفايلي
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=merko)
 
+
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=merko)
+
+
+
+## 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=Profile%20views&color=2ecc71&style=flat)
 
+
+
+
 ![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=Followers&style=social)
+
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+
+
+
 [![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=gruvbox_light&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) 
 
@@ -49,17 +83,6 @@ Languages: SQL · Python · C++
 Libraries: Pandas · NumPy · Matplotlib · Scikit-learn
 Tools: Power BI · Excel · Tableau · GitHub · VS Code
 Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
-
-
-
-
-
-
-
-
-
-## 📜 
-
 
 
 
@@ -195,17 +218,6 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 
 
 
-
-## 🚀 Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
 
 
 
