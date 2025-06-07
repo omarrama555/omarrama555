@@ -16,44 +16,27 @@
 
 <table align="center">
   <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
-      <sub>Python</sub>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/><br>
-      <sub>C++</sub>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/><br>
-      <sub>PostgreSQL</sub>
-    </td>
-    <td>
-      <img src="https://img.icons8.com/color/60/000000/microsoft-excel-2019--v1.png"/><br>
-      <sub>Excel</sub>
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><sub>Python</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60"/><br><sub>R</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br><sub>SQL</sub></td>
+    <td><img src="https://img.icons8.com/color/60/000000/microsoft-excel-2019--v1.png"/><br><sub>Excel</sub></td>
+    <td><img src="https://img.icons8.com/color/60/power-bi.png"/><br><sub>Power BI</sub></td>
   </tr>
   <tr align="center">
-    <td>
-      <img src="https://img.icons8.com/color/60/power-bi.png"/><br>
-      <sub>Power BI</sub>
-    </td>
-    <td>
-      <img src="https://img.icons8.com/color/60/tableau-software.png"/><br>
-      <sub>Tableau</sub>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/><br>
-      <sub>VS Code</sub>
-    </td>
-    <td>
-      <img src="https://img.icons8.com/ios-filled/60/github.png"/><br>
-      <sub>GitHub</sub>
-    </td>
+    <td><img src="https://img.icons8.com/color/60/tableau-software.png"/><br><sub>Tableau</sub></td>
+    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-jupyter-a-programming-language-soft-fill-soft-fill-juicy-fish.png"/><br><sub>Jupyter</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br><sub>NumPy</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br><sub>Pandas</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br><sub>Matplotlib</sub></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="60"/><br><sub>Seaborn</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60"/><br><sub>Scikit-learn</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/><br><sub>TensorFlow</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><sub>Git</sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br><sub>GitHub</sub></td>
   </tr>
 </table>
-
-
 
 
 
