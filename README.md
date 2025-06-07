@@ -9,24 +9,22 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=merko)
 
 
-
 ## 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><sub>Python</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br><sub>SQL</sub>
-  <img src="https://img.icons8.com/color/60/000000/microsoft-excel-2019--v1.png"/><br><sub>Excel</sub>
-  <img src="https://img.icons8.com/color/60/power-bi.png"/><br><sub>Power BI</sub>
-  <img src="https://img.icons8.com/color/60/tableau-software.png"/><br><sub>Tableau</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br><sub>NumPy</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br><sub>Pandas</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br><sub>Matplotlib</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/><br><sub>TensorFlow</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><sub>Git</sub>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br><sub>GitHub</sub>
-  <img src="https://img.icons8.com/color/60/google-colab.png"/><br><sub>Google Colab</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
+  <img src="https://img.icons8.com/color/60/000000/microsoft-excel-2019--v1.png"/>
+  <img src="https://img.icons8.com/color/60/power-bi.png"/>
+  <img src="https://img.icons8.com/color/60/tableau-software.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+  <img src="https://img.icons8.com/color/60/google-colab.png"/>
 </p>
-
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
