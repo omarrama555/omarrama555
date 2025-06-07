@@ -14,42 +14,44 @@
 
 ## 🚀 Languages & Tools
 
-<p align="center">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
-    <sub>Python</sub>
-  </div>
-  &nbsp;&nbsp;&nbsp;
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/><br>
-    <sub>C++</sub>
-  </div>
-  &nbsp;&nbsp;&nbsp;
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/><br>
-    <sub>PostgreSQL</sub>
-  </div>
-  &nbsp;&nbsp;&nbsp;
-  <div align="center">
-    <img src="https://img.icons8.com/color/60/000000/microsoft-excel-2019--v1.png"/><br>
-    <sub>Excel</sub>
-  </div>
-  &nbsp;&nbsp;&nbsp;
-  <div align="center">
-    <img src="https://img.icons8.com/color/60/power-bi.png"/><br>
-    <sub>Power BI</sub>
-  </div>
-  &nbsp;&nbsp;&nbsp;
-  <div align="center">
-    <img src="https://img.icons8.com/color/60/tableau-software.png"/><br>
-    <sub>Tableau</sub>
-  </div>
-  &nbsp;&nbsp;&nbsp;
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/><br>
-    <sub>VS Code</sub>
-  </div>
-</p>
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
+      <sub>Python</sub>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/><br>
+      <sub>C++</sub>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/><br>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td>
+      <img src="https://img.icons8.com/color/60/000000/microsoft-excel-2019--v1.png"/><br>
+      <sub>Excel</sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://img.icons8.com/color/60/power-bi.png"/><br>
+      <sub>Power BI</sub>
+    </td>
+    <td>
+      <img src="https://img.icons8.com/color/60/tableau-software.png"/><br>
+      <sub>Tableau</sub>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/><br>
+      <sub>VS Code</sub>
+    </td>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/60/github.png"/><br>
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
 
 
 
