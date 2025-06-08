@@ -99,6 +99,7 @@ Languages: SQL · Python · C++
 Libraries: Pandas · NumPy · Matplotlib · Scikit-learn
 Tools: Power BI · Excel · Tableau · GitHub · VS Code
 Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
+
 ---
 
 ## 📂 Projects
