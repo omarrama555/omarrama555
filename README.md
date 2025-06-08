@@ -59,6 +59,39 @@ I love building dashboards, analyzing trends, and continuously learning new tool
 - 📊 Portfolio: [Data Analysis Portfolio](https://github.com/omarrama555/Data-Analysis-Portfolio)
 
 ---
+## 💼 Work Experience
+
+**Freelance Data Analyst** – *Upwork & Fiverr*  
+📅 2024 – Present  
+- Cleaned and visualized data for retail and finance clients, improving report accuracy by **25%**.  
+- Manipulated datasets using **SQL** and **Python (Pandas, NumPy)**, reducing processing time by **30%**.  
+- Built interactive **Power BI** dashboards to monitor KPIs and enhance client decision-making.
+
+**Administrative Assistant** – *Jiwa Development*  
+📅 2023 – 2024  
+- Automated document management processes using **Excel**, reducing retrieval time by **20%**.  
+- Supported compliance and reporting tasks, improving workflow efficiency by **15%**.  
+- Conducted basic data analysis to support operational decisions.
+
+**ICPC Team Member & Organizer** – *Benha National University*  
+📅 2023 – Present  
+- Organized **International Collegiate Programming Contest (ICPC)** events, increasing participation by **15%**.  
+- Strengthened team problem-solving skills through collaborative coding sessions and regular practice.
+---
+## 🎓 Education
+
+**B.Sc. in Artificial Intelligence** *(In Progress)* – *Benha National University*  
+📅 2022 – Expected June 2026  
+- **Specialization:** Artificial Intelligence & Data Analysis  
+- **Relevant Courses:**  
+  SQL · Python for Data Analysis · Machine Learning · Data Visualization · C++ ·  
+  Object-Oriented Programming · Data Structures and Algorithms · Statistics · Calculus ·  
+  Linear Algebra · Introduction to Artificial Intelligence · Networking Basics
+
+
+---
+
+
 
 ## 🧠 Skills & Tools
 
@@ -66,7 +99,7 @@ Languages: SQL · Python · C++
 Libraries: Pandas · NumPy · Matplotlib · Scikit-learn
 Tools: Power BI · Excel · Tableau · GitHub · VS Code
 Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
-
+---
 
 ## 📂 Projects
 
