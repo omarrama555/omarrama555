@@ -1,4 +1,4 @@
-## 👋 مرحباً بيك في بروفايلي
+## 👋 Welcome to my profile 
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=merko)
 
