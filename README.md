@@ -253,6 +253,7 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 ![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💚%20Followers&style=for-the-badge)
  
 
+
 ---
 
 ## 🤝 Let's Connect
@@ -262,4 +263,4 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
 <a href="https://github.com/omarrama555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-
+---
