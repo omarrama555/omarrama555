@@ -209,6 +209,47 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
     <a href="https://www.kaggle.com/learn/certification/omarrama555/pandas" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
   </td>
 </tr>
+<tr>
+  <td style="padding:10px; border:1px solid #ddd;">Introduction to Career Skills in Data Analytics</td>
+  <td style="padding:10px; border:1px solid #ddd;">
+    <a href="https://www.linkedin.com/learning/certificates/29cc54be353e6c6dd269471eae533dbf50ef41bcbd28300cbfc03fa0753694dc" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics: 1 Foundations</td>
+  <td style="padding:10px; border:1px solid #ddd;">
+    <a href="https://www.linkedin.com/learning/certificates/338607114085971a84d6ff699c1598a6200e8f79d15638be16c37a675aad68a5" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics Part 2: Extending and Applying Core Knowledge</td>
+  <td style="padding:10px; border:1px solid #ddd;">
+    <a href="https://www.linkedin.com/learning/certificates/5ffeefe69955df28b60d6c626fcc50ab7408d3ee3b58e43084406562fe5884b6" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics: 1 Foundations NASBA</td>
+  <td style="padding:10px; border:1px solid #ddd;">
+    <a href="https://www.linkedin.com/learning/certificates/cf5ce1ea7443ce2571179fa4758d92d65d1b1ea49cca0d80f4845ec37a96132d?trk=share_certificate" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics Part 2 NASBA</td>
+  <td style="padding:10px; border:1px solid #ddd;">
+    <a href="https://www.linkedin.com/learning/certificates/849e2a4fe37d5d63452f8b254f686de830135529635c27507b002cc13b1bdf2f?trk=share_certificate" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:10px; border:1px solid #ddd;">Data Cleaning in Python Essential Training</td>
+  <td style="padding:10px; border:1px solid #ddd;">
+    <a href="https://www.linkedin.com/learning/certificates/4eb3f17855ae64d4abe92031bd5240e3baecba7cad1209ff2f7dfdc640947520" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+  </td>
+</tr>
     <tr>
       <td style="padding:10px; border:1px solid #ddd;">Python Programming Basic</td>
       <td style="padding:10px; border:1px solid #ddd;">
