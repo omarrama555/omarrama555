@@ -177,7 +177,7 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
   </td>
 </tr>
 <tr>
-  <td style="padding:10px; border:1px solid #ddd;">Data Analysis With Python</td>
+  <td style="padding:10px; border:1px solid #ddd;">Data Analysis With Python freecodecamp</td>
   <td style="padding:10px; border:1px solid #ddd;">
     <a href="https://freecodecamp.org/certification/fcc-9f87288b-299d-452c-8040-3c6d47a39773/data-analysis-with-python-v7" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
   </td>
