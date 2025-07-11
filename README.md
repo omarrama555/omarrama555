@@ -169,6 +169,18 @@ Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
     </tr>
   </thead>
   <tbody>
+
+<tr>
+  <td style="padding:10px; border:1px solid #ddd;">Career Essentials in Data Analysis by Microsoft and LinkedIn</td>
+  <td style="padding:10px; border:1px solid #ddd;">
+    <a href="https://www.linkedin.com/learning/certificates/a6d2af723a7079253748cc337f12698ccb5e2a24d71e4832fd402cbeb74e0497" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
+  </td>
+</tr>
+
+
+
+
+    
     <tr>
       <td style="padding:10px; border:1px solid #ddd;">Python Programming Basic</td>
       <td style="padding:10px; border:1px solid #ddd;">
