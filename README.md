@@ -1,13 +1,12 @@
 ## 👋 Welcome to my profile 
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=merko)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=merko&hide_border=true&count_private=true)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=merko&hide_border=true&langs_count=8)
 
 ---
-
 ## 🚀 Languages & Tools
 
 <p align="center">
