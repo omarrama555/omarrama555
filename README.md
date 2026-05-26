@@ -1,6 +1,6 @@
 <div align="center">
 
-![Omar Ramadan Banner](https://capsule-render-mirror.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Omar%20Ramadan&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst%20-%20AI%20and%20ML%20Enthusiast&descAlignY=56&descSize=20)
+![Quote Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=In%20God%20we%20trust%20all%20others%20must%20bring%20data&fontSize=18&fontColor=fff&animation=fadeIn)
 
 </div>
 
