@@ -1,344 +1,354 @@
-## 👋 Welcome to my profile 
+<div align="center">
 
-![Omar's GitHub Stats](https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api?username=omarrama555&show_icons=true&theme=merko)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20Ramadan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
 
-![Top Langs](https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=merko)
+</div>
 
----
-## 🚀 Languages & Tools
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-  <img src="https://img.icons8.com/color/60/000000/microsoft-excel-2019--v1.png"/>
-  <img src="https://img.icons8.com/color/60/power-bi.png"/>
-  <img src="https://img.icons8.com/color/60/tableau-software.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
-  <img src="https://img.icons8.com/color/60/google-colab.png"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Meaningful+Insights+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;Passionate+about+Data+%26+Artificial+Intelligence)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarramadan555)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarramadan88888888g@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarrama555)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://omarrama555.github.io/)
+[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1PomQT_g22FvhLOiY-45NID_4ismZj2aG/view?usp=drivesdk)
+
+</div>
 
 ---
-
-[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=gruvbox_light&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- 👋 Hi There -->
-<h1 align="center">Hi 👋, I'm Omar Ramadan</h1>
-<h3 align="center">Junior Data Analyst | Skilled in Excel, SQL, Python, and Power BI</h3>
 
 ## 👨‍💻 About Me
 
-I'm a Junior Data Analyst passionate about turning raw data into meaningful insights.  
-Skilled in SQL, Python, Excel, and Power BI.  
-Currently pursuing my B.Sc. in Artificial Intelligence at Benha National University.  
-I love building dashboards, analyzing trends, and continuously learning new tools!
+```python
+omar = {
+    "name"       : "Omar Ramadan Fattouh",
+    "role"       : "Junior Data Analyst",
+    "education"  : "B.Sc. Artificial Intelligence — Benha National University (2022–2026)",
+    "location"   : "Cairo, Egypt 🇪🇬",
+    "phone"      : "+20 107 000 7200",
+    "passion"    : ["Data Analysis", "Machine Learning", "BI Dashboards", "AI"],
+    "currently"  : "Building data pipelines & dashboards · Learning MLOps",
+    "fun_fact"   : "I turn messy CSVs into clean insights ✨"
+}
+```
+
+> 🎯 Results-driven analyst skilled in **SQL · Python · Power BI · Excel**. Passionate about leveraging predictive analytics and interactive dashboards to drive strategic business decisions.
 
 ---
 
-- 📫 Reach me at **omarramadan88888888g@gmail.com**
+## 📊 GitHub Stats
 
-- 📄 Check out my [CV](https://drive.google.com/file/d/1PomQT_g22FvhLOiY-45NID_4ismZj2aG/view?usp=drivesdk)
+<div align="center">
 
-- 💼 LinkedIn: [linkedin.com/in/omarramadan555](https://www.linkedin.com/in/omarramadan555)
+<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-- 📊 Portfolio: [Data Analysis Portfolio](https://github.com/omarrama555/Data-Analysis-Portfolio)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=tokyonight&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 💼 Work Experience
 
-**Freelance Data Analyst** – *Upwork & Fiverr*  
-📅 2024 – Present  
-- Cleaned and visualized data for retail and finance clients, improving report accuracy by **25%**.  
-- Manipulated datasets using **SQL** and **Python (Pandas, NumPy)**, reducing processing time by **30%**.  
+<table>
+<tr>
+<td width="60px" align="center">🏥</td>
+<td>
+
+**AI & Computer Vision Intern** — *National Academy of Information Technology for Persons with Disabilities (NAID)*
+📅 Jun 2025 – Sep 2025 · On-site · Cairo, Egypt
+- Gained hands-on experience in **image processing**, **object detection**, and **ML models** for accessibility solutions.
+- Contributed to real-world projects supporting persons with disabilities and inclusive technology design.
+- Attended sessions on **ethical AI**, assistive tech, and generative AI in accessibility.
+- Collaborated with cross-functional teams and presented solutions to mentors and field experts.
+
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🏦</td>
+<td>
+
+**Summer Intern – Information Systems & Infrastructure** — *National Bank of Egypt (NBE)*
+📅 August 2025 · 1 month · On-site · Cairo, Egypt
+- Participated in **DevOps projects** for banking IT infrastructure.
+- Assisted in **CI/CD pipeline** setup, configuration management, system monitoring, and automation.
+- Supported environment configuration and ensured secure deployments.
+- Collaborated with development teams to optimize delivery processes.
+
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">💻</td>
+<td>
+
+**Freelance Data Analyst** — *Upwork & Fiverr*
+📅 2024 – Present
+- Cleaned and visualized data for retail and finance clients, improving report accuracy by **25%**.
+- Manipulated datasets using **SQL** and **Python (Pandas, NumPy)**, reducing processing time by **30%**.
 - Built interactive **Power BI** dashboards to monitor KPIs and enhance client decision-making.
 
-**Administrative Assistant** – *Jiwa Development*  
-📅 2023 – 2024  
-- Automated document management processes using **Excel**, reducing retrieval time by **20%**.  
-- Supported compliance and reporting tasks, improving workflow efficiency by **15%**.  
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🏢</td>
+<td>
+
+**Administrative Assistant** — *Jiwa Development*
+📅 2023 – 2024
+- Automated document management with **Excel**, cutting retrieval time by **20%**.
+- Supported compliance and reporting, improving workflow efficiency by **15%**.
 - Conducted basic data analysis to support operational decisions.
 
-**ICPC Team Member & Organizer** – *Benha National University*  
-📅 2023 – Present  
-- Organized **International Collegiate Programming Contest (ICPC)** events, increasing participation by **15%**.  
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🏆</td>
+<td>
+
+**ICPC Team Member & Organizer** — *Benha National University*
+📅 2023 – Present
+- Organized **International Collegiate Programming Contest (ICPC)** events, increasing participation by **15%**.
 - Strengthened team problem-solving skills through collaborative coding sessions and regular practice.
+
+</td>
+</tr>
+</table>
+
 ---
+
 ## 🎓 Education
 
-**B.Sc. in Artificial Intelligence** *(In Progress)* – *Benha National University*  
-📅 2022 – Expected June 2026  
-- **Specialization:** Artificial Intelligence & Data Analysis  
-- **Relevant Courses:**  
-  SQL · Python for Data Analysis · Machine Learning · Data Visualization · C++ ·  
-  Object-Oriented Programming · Data Structures and Algorithms · Statistics · Calculus ·  
-  Linear Algebra · Introduction to Artificial Intelligence · Networking Basics
+<div align="center">
 
+| 🎓 Degree | 🏫 Institution | 📅 Period |
+|:---|:---|:---:|
+| **B.Sc. Artificial Intelligence** *(In Progress)* | Benha National University | 2022 – June 2026 |
 
----
+</div>
 
-
-
-## 🧠 Skills & Tools
-
-Languages: SQL · Python · C++ 
-
-Libraries: Pandas · NumPy · Matplotlib · Scikit-learn
-
-Tools: Power BI · Excel · Tableau · GitHub · VS Code
-
-Other: ETL · Data Cleaning · Data Wrangling · OOP · DAX · Power Query
+**Relevant Courses:** SQL · Python for Data Analysis · Machine Learning · Data Visualization · C++ · OOP · Data Structures & Algorithms · Statistics · Calculus · Linear Algebra · AI Introduction · Networking Basics
 
 ---
 
-## 📂 Projects
+## 🚀 Languages & Tools
 
-### **🔮 Azure-Powered Banking Analytics & Customer Insights**  
-- 🏦 **Objective:** Migrate banking data to **Azure**, build secure analytics pipelines, and create real-time dashboards for customer behavior, transactions, and risk analysis.
-- 💻 **Technologies Used:** Azure SQL, Power BI, Python (scikit-learn), and more.
-- 🔗 **Key Features:**  
-  - Data migration to Azure Cloud  
-  - Real-time dashboards & transactional insights  
-  - Machine Learning models for predictive analysis
-  - **Project Files:** [Download Here](https://drive.google.com/drive/folders/1-Jf250KQr5I3jMdYpV9T4B_7ZydAdQdj)  
-  - **Dataset:** [Download Here](https://drive.google.com/drive/folders/1mvLguYJN8wkzcmybAWuD1xyJb3OF-7yg)  
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**BI & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Python Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+&nbsp;
+<img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019--v1.png" title="Excel"/>
+&nbsp;
+<img src="https://img.icons8.com/color/50/power-bi.png" title="Power BI"/>
+&nbsp;
+<img src="https://img.icons8.com/color/50/tableau-software.png" title="Tableau"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" title="Matplotlib"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+&nbsp;
+<img src="https://img.icons8.com/color/50/google-colab.png" title="Google Colab"/>
+</div>
 
 ---
 
-### 📧 **Spam Message Classification (NLP + GUI)**
-- 🧠 An **NLP** project that classifies messages as **Spam** or **Not Spam** using machine learning algorithms.
-- 🧹 Includes data cleaning, feature extraction with **TF-IDF**, and models like Naive Bayes and Logistic Regression.
-- 🖥️ Features a **Graphical User Interface (GUI)** built with Tkinter for interactive testing.
-- 📁 [View Project Files](https://drive.google.com/drive/folders/1c45PXRVD9Vx47ASadwcgEg1-wBhJX12k)
+## 🧠 Skills Overview
+
+<div align="center">
+
+| 🔧 Technical | 📊 Analytical | 🤝 Soft Skills |
+|:---|:---|:---|
+| SQL (Joins · Subqueries · Window Functions) | Data Cleaning & Wrangling | Problem-Solving |
+| Python (Pandas · NumPy · Matplotlib · Scikit-learn) | ETL Processes | Critical Thinking |
+| Power BI (DAX · Data Modeling) | Exploratory Data Analysis | Communication |
+| Excel (Pivot Tables · Power Query · Macros) | Statistical Analysis | Team Collaboration |
+| Tableau · C++ · OOP · ML Basics | Predictive Analytics | Presentation Skills |
+
+</div>
 
 ---
 
-### 📊 **Adidas US Sales Dashboard (Power BI + Excel)**
-- 📦 A data visualization project analyzing **Adidas sales in the US** using Excel and Power BI.
-- 📈 Built an interactive **dashboard** highlighting key KPIs such as regional sales, store types, and product categories.
-- 🧩 Provides insights to support business decision-making.
-- 📁 [View Project Files](https://drive.google.com/drive/folders/1H4iR1s6thrgRN_IZERiW6pPOlYmgumuA)
+## 📂 Featured Projects
+
+<div align="center">
+
+| # | Project | Tech Stack | Links |
+|:---:|:---|:---|:---:|
+| 🏦 | **Azure-Powered Banking Analytics & Customer Insights** | Azure SQL · Power BI · Python · ML | [📁 Files](https://drive.google.com/drive/folders/1-Jf250KQr5I3jMdYpV9T4B_7ZydAdQdj) · [📊 Dataset](https://drive.google.com/drive/folders/1mvLguYJN8wkzcmybAWuD1xyJb3OF-7yg) |
+| 👟 | **Adidas US Sales Dashboard** | Power BI · Excel · DAX · Power Query | [📁 Files](https://drive.google.com/drive/folders/1H4iR1s6thrgRN_IZERiW6pPOlYmgumuA) |
+| 📧 | **Spam Message Classification (NLP + GUI)** | Python · NLP · TF-IDF · Naive Bayes · Tkinter | [📁 Files](https://drive.google.com/drive/folders/1c45PXRVD9Vx47ASadwcgEg1-wBhJX12k) |
+| 📈 | **Fortune 1000 Companies Analysis** | Python · Pandas · Matplotlib · Seaborn | [📁 Files](https://drive.google.com/drive/folders/1lyAkw6xBbHjOfD7d5ibYWZA1uP8P6rYr) |
+| 🤖 | **Robot Arm Analysis using Machine Learning** | Python · ML · Kinematics · 3D Visualization | [📁 Files](https://drive.google.com/drive/folders/1SMqJlOhd4zGz_-gRpCSplGkV3oVXeJtj) |
+
+</div>
+
+### 🔮 Azure-Powered Banking Analytics & Customer Insights
+> Migrate banking data to **Azure**, build secure analytics pipelines, and create real-time dashboards for customer behavior, transactions, and risk analysis.
+- 🏦 Data migration to **Azure Cloud** with secure pipelines
+- 📊 Real-time dashboards & transactional insights via **Power BI**
+- 🤖 **Machine Learning** models for predictive risk analysis
+
+### 👟 Adidas US Sales Dashboard — Power BI
+> Developed a Power BI dashboard analyzing **2M+ units sold**, **$899M in sales**, and **$332M in profit**.
+- 📈 Visualized sales trends and regional metrics, improving decision-making by **20%**
+- ⚙️ Used **DAX** and **Power Query** for efficient data modeling and cleaning
+
+### 📧 Spam Message Classification — NLP + GUI
+> Classifies messages as **Spam** or **Not Spam** using NLP and machine learning algorithms.
+- 🧹 Data cleaning, **TF-IDF** feature extraction, Naive Bayes & Logistic Regression
+- 🖥️ Interactive **Tkinter GUI** for real-time classification testing
+
+### 📈 Fortune 1000 Companies Analysis — Python EDA
+> Exploratory analysis of Fortune 1000 company data with rich visualizations.
+- 🔍 Applied **EDA** to understand trends, distributions, and key business metrics
+- 📊 Clear visuals with **Pandas, Matplotlib, and Seaborn**
+
+### 🤖 Robot Arm Analysis using Machine Learning
+> Combines ML and robotics to analyze and predict robotic arm behavior.
+- ⚙️ Implements **forward & inverse kinematics** with ML-based prediction
+- 📐 3D visualization and motion simulation using **Python**
 
 ---
 
-### 📈 **Fortune 1000 Companies Analysis (Python)**
-- 🧮 Data analysis project using **Python** to explore and visualize Fortune 1000 company data.
-- 🔍 Applied **Exploratory Data Analysis (EDA)** to understand trends, distributions, and key metrics.
-- 📊 Used libraries like Pandas, Matplotlib, and Seaborn to generate clear and informative visuals.
-- 📁 [View Project Files](https://drive.google.com/drive/folders/1lyAkw6xBbHjOfD7d5ibYWZA1uP8P6rYr)
+## 📜 Certificates
 
----
+<h3 align="center">🏅 Certifications & Achievements</h3>
 
-### 🤖 **Robot Arm Analysis using Machine Learning**
-- 🔬 Combines **machine learning and robotics** to analyze the behavior of a robotic arm.
-- ⚙️ Implements both **forward and inverse kinematics**, and trains ML models to predict motion and positions.
-- 📐 Includes 3D visualization and simulation of the robot arm using Python.
-- 📁 [View Project Files](https://drive.google.com/drive/folders/1SMqJlOhd4zGz_-gRpCSplGkV3oVXeJtj)
-
-
-
-
-
-
-
-
-
----
-
-<h2 align="center">📜 Certificates</h2>
-
-<table style="width:90%; margin:auto; font-size:16px; border-collapse:collapse;">
+<table align="center" style="width:90%; font-size:15px; border-collapse:collapse;">
   <thead>
-    <tr style="background-color:#4CAF50; color:white;">
-      <th style="padding:10px; border:1px solid #ddd;">Certificate</th>
-      <th style="padding:10px; border:1px solid #ddd;">Link</th>
+    <tr style="background-color:#1a1b27; color:#00d9ff;">
+      <th style="padding:10px; border:1px solid #30363d;">📋 Certificate</th>
+      <th style="padding:10px; border:1px solid #30363d;">🏢 Issuer</th>
+      <th style="padding:10px; border:1px solid #30363d;">📅 Year</th>
+      <th style="padding:10px; border:1px solid #30363d;">🔗 Link</th>
     </tr>
   </thead>
   <tbody>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Career Essentials in Data Analysis by Microsoft and LinkedIn</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.linkedin.com/learning/certificates/a6d2af723a7079253748cc337f12698ccb5e2a24d71e4832fd402cbeb74e0497" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Data Analysis With Python freecodecamp</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://freecodecamp.org/certification/fcc-9f87288b-299d-452c-8040-3c6d47a39773/data-analysis-with-python-v7" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Data Cleaning</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.kaggle.com/learn/certification/omarrama555/data-cleaning" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Data Visualization</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.kaggle.com/learn/certification/omarrama555/data-visualization" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Feature Engineering</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.kaggle.com/learn/certification/omarrama555/feature-engineering" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Pandas</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.kaggle.com/learn/certification/omarrama555/pandas" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Introduction to Career Skills in Data Analytics</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.linkedin.com/learning/certificates/29cc54be353e6c6dd269471eae533dbf50ef41bcbd28300cbfc03fa0753694dc" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics: 1 Foundations</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.linkedin.com/learning/certificates/338607114085971a84d6ff699c1598a6200e8f79d15638be16c37a675aad68a5" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics Part 2: Extending and Applying Core Knowledge</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.linkedin.com/learning/certificates/5ffeefe69955df28b60d6c626fcc50ab7408d3ee3b58e43084406562fe5884b6" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics: 1 Foundations NASBA</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.linkedin.com/learning/certificates/cf5ce1ea7443ce2571179fa4758d92d65d1b1ea49cca0d80f4845ec37a96132d?trk=share_certificate" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Learning Data Analytics Part 2 NASBA</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.linkedin.com/learning/certificates/849e2a4fe37d5d63452f8b254f686de830135529635c27507b002cc13b1bdf2f?trk=share_certificate" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:10px; border:1px solid #ddd;">Data Cleaning in Python Essential Training</td>
-  <td style="padding:10px; border:1px solid #ddd;">
-    <a href="https://www.linkedin.com/learning/certificates/4eb3f17855ae64d4abe92031bd5240e3baecba7cad1209ff2f7dfdc640947520" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-  </td>
-</tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Python Programming Basic</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1P-foc6eZST_iDAcoOnE0UUY6fFk4ocME/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">SQL For Data Analysis</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Excel for Data Analysis</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1FsZ7vMDntdybO6u-xYmdPsh6gcz-IW3K/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Data Analyst Prerequisite</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1PpByubzIdNrk5W0pKUOslc0kaSLM6HrQ/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Database Fundamental</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1PKu0C77eMY2grVSpQE5x5Wv_U4APwI1f/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">ECPC Programming</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">CCNA Certificate</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1FppdB6sUiz25nkymH02688Ux469T5pUh/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Data Analysis with Python</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1G9JbK3pQtcbiES4Gt4qgCOxA2v5U5Pri/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Data Visualization & Storytelling</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1GCrBjmsaTOqoT9bfukG_fndZE8DJ_c6L/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Freelancing Certificate</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Microsoft Powerbi in Fabric</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1GFf0L0nJy_V0nPr28yh2Q18lhy3Sfm_O/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; border:1px solid #ddd;">Learn Data Analysis with Excel</td>
-      <td style="padding:10px; border:1px solid #ddd;">
-        <a href="https://drive.google.com/file/d/1JGgFR_MUIaNvtMY2BepkHHDwcol0MPEY/view?usp=drivesdk" target="_blank" style="color:#1E90FF; font-weight:bold;">View</a>
-      </td>
-    </tr>
+    <tr><td>Career Essentials in Data Analysis</td><td>Microsoft & LinkedIn</td><td>2025</td><td><a href="https://www.linkedin.com/learning/certificates/a6d2af723a7079253748cc337f12698ccb5e2a24d71e4832fd402cbeb74e0497">View</a></td></tr>
+    <tr><td>Data Analysis With Python</td><td>freeCodeCamp</td><td>2025</td><td><a href="https://freecodecamp.org/certification/fcc-9f87288b-299d-452c-8040-3c6d47a39773/data-analysis-with-python-v7">View</a></td></tr>
+    <tr><td>SQL for Data Analysis</td><td>LinkedIn Learning</td><td>2025</td><td><a href="https://drive.google.com/file/d/1GQXX_1DkIarCDC7p42X7ap73HSKCswGU/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Microsoft Power BI in Fabric</td><td>Udemy</td><td>2025</td><td><a href="https://drive.google.com/file/d/1GFf0L0nJy_V0nPr28yh2Q18lhy3Sfm_O/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Data Cleaning</td><td>Kaggle</td><td>2025</td><td><a href="https://www.kaggle.com/learn/certification/omarrama555/data-cleaning">View</a></td></tr>
+    <tr><td>Data Visualization</td><td>Kaggle</td><td>2025</td><td><a href="https://www.kaggle.com/learn/certification/omarrama555/data-visualization">View</a></td></tr>
+    <tr><td>Feature Engineering</td><td>Kaggle</td><td>2025</td><td><a href="https://www.kaggle.com/learn/certification/omarrama555/feature-engineering">View</a></td></tr>
+    <tr><td>Pandas</td><td>Kaggle</td><td>2025</td><td><a href="https://www.kaggle.com/learn/certification/omarrama555/pandas">View</a></td></tr>
+    <tr><td>Introduction to Career Skills in Data Analytics</td><td>LinkedIn Learning</td><td>2025</td><td><a href="https://www.linkedin.com/learning/certificates/29cc54be353e6c6dd269471eae533dbf50ef41bcbd28300cbfc03fa0753694dc">View</a></td></tr>
+    <tr><td>Learning Data Analytics: 1 Foundations</td><td>LinkedIn Learning</td><td>2025</td><td><a href="https://www.linkedin.com/learning/certificates/338607114085971a84d6ff699c1598a6200e8f79d15638be16c37a675aad68a5">View</a></td></tr>
+    <tr><td>Learning Data Analytics Part 2</td><td>LinkedIn Learning</td><td>2025</td><td><a href="https://www.linkedin.com/learning/certificates/5ffeefe69955df28b60d6c626fcc50ab7408d3ee3b58e43084406562fe5884b6">View</a></td></tr>
+    <tr><td>Data Cleaning in Python Essential Training</td><td>LinkedIn Learning</td><td>2025</td><td><a href="https://www.linkedin.com/learning/certificates/4eb3f17855ae64d4abe92031bd5240e3baecba7cad1209ff2f7dfdc640947520">View</a></td></tr>
+    <tr><td>Introduction to Data Analysis Using Microsoft Excel</td><td>Udemy</td><td>2025</td><td><a href="https://drive.google.com/file/d/1FsZ7vMDntdybO6u-xYmdPsh6gcz-IW3K/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Data Analysis with Python</td><td>Udemy</td><td>2025</td><td><a href="https://drive.google.com/file/d/1G9JbK3pQtcbiES4Gt4qgCOxA2v5U5Pri/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Data Visualization & Storytelling</td><td>–</td><td>2025</td><td><a href="https://drive.google.com/file/d/1GCrBjmsaTOqoT9bfukG_fndZE8DJ_c6L/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Python Programming Basic</td><td>–</td><td>2025</td><td><a href="https://drive.google.com/file/d/1P-foc6eZST_iDAcoOnE0UUY6fFk4ocME/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Database Fundamentals</td><td>Mahara Tech</td><td>2025</td><td><a href="https://drive.google.com/file/d/1PKu0C77eMY2grVSpQE5x5Wv_U4APwI1f/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Freelancing</td><td>Mahara Tech</td><td>2025</td><td><a href="https://drive.google.com/file/d/1PgEABuY3bHxEdQOxjnI0kt78BptVQBa_/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Learn Data Analysis with Excel</td><td>Udemy</td><td>2025</td><td><a href="https://drive.google.com/file/d/1JGgFR_MUIaNvtMY2BepkHHDwcol0MPEY/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>Data Analyst Prerequisite</td><td>–</td><td>2025</td><td><a href="https://drive.google.com/file/d/1PpByubzIdNrk5W0pKUOslc0kaSLM6HrQ/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>CCNA Certificate</td><td>–</td><td>2023</td><td><a href="https://drive.google.com/file/d/1FppdB6sUiz25nkymH02688Ux469T5pUh/view?usp=drivesdk">View</a></td></tr>
+    <tr><td>ECPC / ACPC Programming</td><td>–</td><td>2023</td><td><a href="https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk">View</a></td></tr>
   </tbody>
 </table>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=👀%20Profile%20Views&color=2ecc71&style=for-the-badge)
-
-
----
-![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💚%20Followers&style=for-the-badge)
- 
-
-
----
-
 ## 🤝 Let's Connect
 
-<a href="mailto:omarramadan88888888g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/omarramadan555"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/omarrama555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<div align="center">
 
+<a href="mailto:omarramadan88888888g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/omarramadan555"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/omarrama555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://omarrama555.github.io/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+
+</div>
 
 ---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=👀%20Profile%20Views&color=00d9ff&style=for-the-badge)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💙%20Followers&style=for-the-badge&color=0a66c2)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
