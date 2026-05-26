@@ -1,30 +1,32 @@
-
-<div align="center">
-
-![Quote Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=In%20God%20we%20trust%20all%20others%20must%20bring%20data&fontSize=18&fontColor=fff&animation=fadeIn)
-
-</div>
-<section id="about-me" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 40px; padding: 40px 20px;">
+<section id="hero" style="display: flex; flex-wrap: wrap-reverse; align-items: center; justify-content: space-between; gap: 40px; padding: 80px 10%; background-color: #0d1117; min-height: 70vh;">
   
-  <div class="about-image">
-    <img src="https://github.com/omarrama555.png" alt="Omar Ramadan" 
-         style="width: 300px; height: 300px; border-radius: 20px; object-fit: cover; border: 4px solid #00D9FF; box-shadow: 0px 8px 24px rgba(0, 217, 255, 0.2);" />
+  <div class="hero-text" style="flex: 1; min-width: 300px;">
+    <h1 style="font-size: 3.5rem; font-weight: 800; color: #ffffff; margin: 0 0 10px 0; line-height: 1.2;">
+      Hi, I'm <br>
+      <span style="color: #00D9FF; background: linear-gradient(45deg, #00D9FF, #7B2FBE); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+        Omar Ramadan Fattouh
+      </span>
+    </h1>
+    <h3 style="font-size: 1.5rem; color: #8b949e; font-weight: 400; margin: 0 0 25px 0;">
+      Junior Data Analyst & AI / ML Enthusiast
+    </h3>
+    <p style="font-size: 1.1rem; color: #c9d1d9; line-height: 1.6; max-width: 500px; margin-bottom: 30px;">
+      I specialize in transforming complex data sets into meaningful, actionable insights and building intelligent data solutions.
+    </p>
+    
+    <a href="#contact" style="text-decoration: none; padding: 12px 28px; background: linear-gradient(45deg, #00D9FF, #7B2FBE); color: #fff; font-weight: bold; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.3); transition: 0.3s;">
+      Let's Connect
+    </a>
   </div>
 
-  <div class="about-text" style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h2 style="color: #00D9FF; font-size: 2.5rem; margin-bottom: 15px;">About Me</h2>
-    <p style="font-size: 1.1rem; line-height: 1.6; color: #ffffff;">
-      Hi, I'm <strong>Omar Ramadan</strong> — a Junior Data Analyst & AI student turning messy data into clean, actionable insights. 
-    </p>
-    <p style="font-size: 1.1rem; line-height: 1.6; color: #ffffff;">
-      I specialize in building end-to-end data pipelines, predictive modeling, and crafting interactive dashboards that tell a story.
-    </p>
+  <div class="hero-image" style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+    <div style="position: relative;">
+      <img src="https://github.com/omarrama555.png" alt="Omar Ramadan Fattouh" 
+           style="width: 350px; height: 350px; border-radius: 30px; object-fit: cover; border: 4px solid #00D9FF; box-shadow: 0px 10px 30px rgba(0, 217, 255, 0.25); display: block;" />
+    </div>
   </div>
 
 </section>
-
-
-
 
 
 <div align="center">
