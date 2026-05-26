@@ -93,7 +93,7 @@ omar = {
 
 <div align="center">
 
-[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00D9FF&line=7B2FBE&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
