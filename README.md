@@ -10,21 +10,6 @@
 
 </div>
 
----
-
-<!-- ✨ NEW FEATURE 1: Live Metrics Counters Banner -->
-<div align="center">
-
-![](https://img.shields.io/badge/🚀_Projects_Built-5%2B-00D9FF?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/📜_Certificates-22%2B-7B2FBE?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/💼_Experience-2%2B_Years-FF6B6B?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🌍_Clients_Served-10%2B-00C851?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
----
-
-<!-- ✨ NEW FEATURE 2: Status + Location + Graduation Badges -->
 <div align="center">
 
 ![](https://img.shields.io/badge/🔥_Status-Open_to_Opportunities-00D9FF?style=for-the-badge&labelColor=0D1117)
@@ -35,7 +20,6 @@
 
 ---
 
-<!-- ✨ NEW FEATURE 3: Social & Contact Links -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarramadan555)
@@ -48,117 +32,10 @@
 
 ---
 
-<!-- ✨ NEW FEATURE 4: Visitor & Followers Counters -->
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=👀%20Profile%20Views&color=7B2FBE&style=for-the-badge)
-&nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💙%20Followers&style=for-the-badge&color=00D9FF)
-
-</div>
-
----
-
-<!-- ✨ NEW FEATURE 5: Interactive Skill Cards with Animation -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&section=header&text=⚡%20Skill%20Proficiency&fontSize=30&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-| Skill | Proficiency |
-|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=FF6B6B&successColor=00D9FF) |
-| ![SQL](https://img.shields.io/badge/SQL-85%25-00D9FF?style=flat-square&logo=postgresql&logoColor=black) | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=FF6B6B&successColor=7B2FBE) |
-| ![Power BI](https://img.shields.io/badge/Power_BI-80%25-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=FF6B6B&successColor=F2C811) |
-| ![Excel](https://img.shields.io/badge/Excel-88%25-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | ![](https://geps.dev/progress/88?dangerColor=800000&warningColor=FF6B6B&successColor=00C851) |
-| ![Machine Learning](https://img.shields.io/badge/ML-75%25-FF6B6B?style=flat-square&logo=scikit-learn&logoColor=white) | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=FF6B6B&successColor=FF6B6B) |
-
-</div>
-
----
-
-<!-- ✨ NEW FEATURE 6: GitHub Stats Trio — placed high for instant impact -->
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7B2FBE)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarrama555&theme=tokyonight" alt="Omar's Profile Summary" />
-
-</div>
-
----
-
-<!-- ✨ NEW FEATURE 7: Snake Contribution Animation -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=🐍%20Contribution%20Snake&fontSize=30&fontColor=fff"/>
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/omarrama555/omarrama555/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<!-- ✨ NEW FEATURE 8: Animated Trophy Showcase -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=60&section=header&text=🏆%20GitHub%20Trophies&fontSize=30&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ✨ NEW FEATURE 9: WakaTime Coding Activity (Weekly Stats) -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20&height=60&section=header&text=⏱️%20Coding%20Activity&fontSize=30&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-[![wakatime](https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/wakatime?username=omarrama555&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&icon_color=7B2FBE&layout=compact)](https://wakatime.com/)
-
-</div>
-
----
-
-<!-- ✨ NEW FEATURE 10: Animated Motivational Quote Banner -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=💬%20%22In%20God%20we%20trust%3B%20all%20others%20must%20bring%20data%22&fontSize=18&fontColor=fff&animation=fadeIn"/>
-</div>
-
----
-
+<!-- 🌈 FEATURE 1: Animated Rainbow Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
-<!-- 👨‍💻 ABOUT ME -->
+<!-- 🎯 FEATURE 2: Colorful About Me Banner -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,12&height=60&section=header&text=👨‍💻%20About%20Me&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
@@ -180,23 +57,76 @@ omar = {
 
 ---
 
-<!-- ✨ NEW FEATURE 11: Currently Learning / Now Doing Section -->
+<!-- 🌈 FEATURE 3: Colorful Progress Bars for Skills -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3,9,20&height=60&section=header&text=🌱%20Currently%20Leveling%20Up&fontSize=30&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&section=header&text=⚡%20Skill%20Proficiency&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
 
 <div align="center">
 
-![MLOps](https://img.shields.io/badge/📦_MLOps-Learning_Now-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Azure](https://img.shields.io/badge/☁️_Azure_Data_Engineering-In_Progress-7B2FBE?style=for-the-badge&labelColor=0D1117)
-![Deep Learning](https://img.shields.io/badge/🧠_Deep_Learning-Exploring-FF6B6B?style=for-the-badge&labelColor=0D1117)
-![LLMs](https://img.shields.io/badge/🤖_LLM_Applications-Building-00C851?style=for-the-badge&labelColor=0D1117)
+| Skill | Proficiency |
+|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=FF6B6B&successColor=00D9FF) |
+| ![SQL](https://img.shields.io/badge/SQL-85%25-00D9FF?style=flat-square&logo=postgresql&logoColor=black) | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=FF6B6B&successColor=7B2FBE) |
+| ![Power BI](https://img.shields.io/badge/Power_BI-80%25-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=FF6B6B&successColor=F2C811) |
+| ![Excel](https://img.shields.io/badge/Excel-88%25-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | ![](https://geps.dev/progress/88?dangerColor=800000&warningColor=FF6B6B&successColor=00C851) |
+| ![Machine Learning](https://img.shields.io/badge/ML-75%25-FF6B6B?style=flat-square&logo=scikit-learn&logoColor=white) | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=FF6B6B&successColor=FF6B6B) |
 
 </div>
 
 ---
 
-<!-- 💼 WORK EXPERIENCE -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7B2FBE)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+---
+
+## 🏆 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarrama555&theme=tokyonight" alt="Omar's Profile Summary" />
+
+</div>
+
+---
+
+---
+
+<!-- 🌈 FEATURE 4: Colorful Snake Animation -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=🐍%20Contribution%20Snake&fontSize=30&fontColor=fff"/>
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/omarrama555/omarrama555/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!-- 🌈 FEATURE 5: Colorful Work Experience Banner -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3,9,19&height=60&section=header&text=💼%20Work%20Experience&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
@@ -267,7 +197,7 @@ omar = {
 
 ---
 
-<!-- 🎓 EDUCATION -->
+<!-- 🌈 FEATURE 6: Colorful Education Banner -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=60&section=header&text=🎓%20Education&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
@@ -284,7 +214,6 @@ omar = {
 
 ---
 
-<!-- 🚀 LANGUAGES & TOOLS -->
 ## 🚀 Languages & Tools
 
 <div align="center">
@@ -351,7 +280,6 @@ omar = {
 
 ---
 
-<!-- 🧠 SKILLS OVERVIEW -->
 ## 🧠 Skills Overview
 
 <div align="center">
@@ -368,7 +296,7 @@ omar = {
 
 ---
 
-<!-- 📂 FEATURED PROJECTS -->
+<!-- 🌈 FEATURE 7: Colorful Projects Banner -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,19,20&height=60&section=header&text=📂%20Featured%20Projects&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
@@ -413,7 +341,7 @@ omar = {
 
 ---
 
-<!-- 📜 CERTIFICATES -->
+<!-- 🌈 FEATURE 8: Colorful Certificates Banner -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=60&section=header&text=📜%20Certificates&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
@@ -457,7 +385,25 @@ omar = {
 
 ---
 
-<!-- 🤝 LET'S CONNECT -->
+<!-- 🌈 FEATURE 9: Colorful Quote / Motivation Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=💬%20%22In%20God%20we%20trust%3B%20all%20others%20must%20bring%20data%22&fontSize=18&fontColor=fff&animation=fadeIn"/>
+</div>
+
+---
+
+<!-- 🌈 FEATURE 10: Colorful Metrics Row -->
+<div align="center">
+
+![](https://img.shields.io/badge/🚀_Projects_Built-5%2B-00D9FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📜_Certificates-22%2B-7B2FBE?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/💼_Experience-2%2B_Years-FF6B6B?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🌍_Clients_Served-10%2B-00C851?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -473,6 +419,14 @@ omar = {
 </div>
 
 ---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=👀%20Profile%20Views&color=7B2FBE&style=for-the-badge)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💙%20Followers&style=for-the-badge&color=00D9FF)
+
+</div>
 
 <div align="center">
 
