@@ -85,6 +85,11 @@ omar = {
 
 </div>
 
+
+
+
+<div align="center">
+
 <!-- 🏆 GitHub Trophies -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=🏆%20GitHub%20Trophies&fontSize=30&fontColor=fff&animation=twinkling"/>
@@ -97,8 +102,6 @@ omar = {
 </div>
 
 
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7B2FBE)](https://git.io/streak-stats)
 
