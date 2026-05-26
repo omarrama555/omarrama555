@@ -1,3 +1,5 @@
+<img src="https://github.com/omarrama555.png" alt="Omar Ramadan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #00D9FF;" />
+
 <div align="center">
 
 ![Quote Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=In%20God%20we%20trust%20all%20others%20must%20bring%20data&fontSize=18&fontColor=fff&animation=fadeIn)
