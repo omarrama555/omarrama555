@@ -1,33 +1,18 @@
-<section id="hero" style="display: flex; flex-wrap: wrap-reverse; align-items: center; justify-content: space-between; gap: 40px; padding: 80px 10%; background-color: #0d1117; min-height: 70vh;">
+<section id="hero" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px; padding: 60px 20px; background-color: #0d1117;">
   
-  <div class="hero-text" style="flex: 1; min-width: 300px;">
-    <h1 style="font-size: 3.5rem; font-weight: 800; color: #ffffff; margin: 0 0 10px 0; line-height: 1.2;">
-      Hi, I'm <br>
-      <span style="color: #00D9FF; background: linear-gradient(45deg, #00D9FF, #7B2FBE); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-        Omar Ramadan Fattouh
-      </span>
-    </h1>
-    <h3 style="font-size: 1.5rem; color: #8b949e; font-weight: 400; margin: 0 0 25px 0;">
-      Junior Data Analyst & AI / ML Enthusiast
-    </h3>
-    <p style="font-size: 1.1rem; color: #c9d1d9; line-height: 1.6; max-width: 500px; margin-bottom: 30px;">
-      I specialize in transforming complex data sets into meaningful, actionable insights and building intelligent data solutions.
-    </p>
-    
-    <a href="#contact" style="text-decoration: none; padding: 12px 28px; background: linear-gradient(45deg, #00D9FF, #7B2FBE); color: #fff; font-weight: bold; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.3); transition: 0.3s;">
-      Let's Connect
-    </a>
-  </div>
+  <h1 style="font-size: 3.5rem; font-weight: 800; color: #ffffff; margin: 0; text-align: center; line-height: 1.2;">
+    Hi, I'm <br>
+    <span style="color: #00D9FF; background: linear-gradient(45deg, #00D9FF, #7B2FBE); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Omar Ramadan Fattouh
+    </span>
+  </h1>
 
-  <div class="hero-image" style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
-    <div style="position: relative;">
-      <img src="https://github.com/omarrama555.png" alt="Omar Ramadan Fattouh" 
-           style="width: 350px; height: 350px; border-radius: 30px; object-fit: cover; border: 4px solid #00D9FF; box-shadow: 0px 10px 30px rgba(0, 217, 255, 0.25); display: block;" />
-    </div>
+  <div class="hero-image" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/omarrama555.png" alt="Omar Ramadan Fattouh" 
+         style="width: 250px; height: 250px; border-radius: 20px; object-fit: cover; border: 4px solid #00D9FF; box-shadow: 0px 10px 30px rgba(0, 217, 255, 0.25);" />
   </div>
 
 </section>
-
 
 <div align="center">
 
