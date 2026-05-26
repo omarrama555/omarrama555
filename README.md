@@ -4,6 +4,28 @@
 ![Quote Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=In%20God%20we%20trust%20all%20others%20must%20bring%20data&fontSize=18&fontColor=fff&animation=fadeIn)
 
 </div>
+<section id="about-me" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 40px; padding: 40px 20px;">
+  
+  <div class="about-image">
+    <img src="https://github.com/omarrama555.png" alt="Omar Ramadan" 
+         style="width: 300px; height: 300px; border-radius: 20px; object-fit: cover; border: 4px solid #00D9FF; box-shadow: 0px 8px 24px rgba(0, 217, 255, 0.2);" />
+  </div>
+
+  <div class="about-text" style="flex: 1; min-width: 300px; max-width: 600px;">
+    <h2 style="color: #00D9FF; font-size: 2.5rem; margin-bottom: 15px;">About Me</h2>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #ffffff;">
+      Hi, I'm <strong>Omar Ramadan</strong> — a Junior Data Analyst & AI student turning messy data into clean, actionable insights. 
+    </p>
+    <p style="font-size: 1.1rem; line-height: 1.6; color: #ffffff;">
+      I specialize in building end-to-end data pipelines, predictive modeling, and crafting interactive dashboards that tell a story.
+    </p>
+  </div>
+
+</section>
+
+
+
+
 
 <div align="center">
 
