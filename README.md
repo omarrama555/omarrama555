@@ -32,28 +32,88 @@
 
 ---
 
-<!-- 🌈 FEATURE 1: Animated Rainbow Divider -->
+<!-- 💬 Quote Banner — Strategic Position -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=💬%20%22In%20God%20we%20trust%3B%20all%20others%20must%20bring%20data%22&fontSize=18&fontColor=fff&animation=fadeIn"/>
+</div>
+
+---
+
+<!-- 🏷️ Metrics Counters — Moved Up -->
+<div align="center">
+
+![](https://img.shields.io/badge/🚀_Projects_Built-5%2B-00D9FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📜_Certificates-22%2B-7B2FBE?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/💼_Experience-2%2B_Years-FF6B6B?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🌍_Clients_Served-10%2B-00C851?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+---
+
+<!-- 🌈 Animated Rainbow Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
-<!-- 🎯 FEATURE 2: Colorful About Me Banner -->
+<!-- ✨ ABOUT ME — Redesigned -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,12&height=60&section=header&text=👨‍💻%20About%20Me&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
 
-```python
-omar = {
-    "name"       : "Omar Ramadan Fattouh",
-    "role"       : "Junior Data Analyst",
-    "education"  : "B.Sc. Artificial Intelligence — Benha National University (2022–2026)",
-    "location"   : "Cairo, Egypt 🇪🇬",
-    "phone"      : "+20 107 000 7200",
-    "passion"    : ["Data Analysis", "Machine Learning", "BI Dashboards", "AI"],
-    "currently"  : "Building data pipelines & dashboards · Learning MLOps",
-    "fun_fact"   : "I turn messy CSVs into clean insights ✨"
-}
-```
+<br/>
 
-> 🎯 Results-driven analyst skilled in **SQL · Python · Power BI · Excel**. Passionate about leveraging predictive analytics and interactive dashboards to drive strategic business decisions.
+<table align="center" width="90%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧬 Who Am I?
+
+Hi, I'm **Omar Ramadan Fattouh** — a Junior Data Analyst & AI student based in **Cairo, Egypt 🇪🇬**, turning messy data into clean, actionable insights.
+
+I'm currently finishing my **B.Sc. in Artificial Intelligence** at Benha National University (Class of June 2026), and I've been freelancing as a data analyst on **Upwork & Fiverr** since 2024.
+
+My sweet spot is where **data meets storytelling** — building dashboards that actually help people make better decisions.
+
+---
+
+🎯 **Currently focused on:**
+- Building end-to-end data pipelines
+- Advancing in **MLOps** & cloud-based analytics on **Azure**
+- Exploring **LLMs, RAG**, and AI-powered analytics
+
+💡 **Fun fact:** I can turn a messy CSV into a clean insight before my coffee gets cold ☕✨
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" width="100%"/>
+
+<br/><br/>
+
+**📬 Contact**
+
+[![Gmail](https://img.shields.io/badge/omarramadan88888888g@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarramadan88888888g@gmail.com)
+
+[![Phone](https://img.shields.io/badge/+20_107_000_7200-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+201070007200)
+
+[![LinkedIn](https://img.shields.io/badge/omarramadan555-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarramadan555)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 🌱 Currently Leveling Up -->
+<div align="center">
+
+**🌱 Currently Leveling Up:**
+
+![](https://img.shields.io/badge/⚙️_MLOps-Pipeline_Automation-00D9FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/☁️_Azure_AI-Cloud_Analytics-0078D4?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🤖_LLMs_%26_RAG-Generative_AI-7B2FBE?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📐_Prompt_Engineering-AI_Workflows-FF6B6B?style=for-the-badge&labelColor=0D1117)
+
+</div>
 
 ---
 
@@ -85,23 +145,7 @@ omar = {
 
 </div>
 
-
-
-
 <div align="center">
-
-<!-- 🏆 GitHub Trophies -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=🏆%20GitHub%20Trophies&fontSize=30&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7B2FBE)](https://git.io/streak-stats)
 
@@ -115,6 +159,17 @@ omar = {
 
 ---
 
+<!-- 🏆 GitHub Trophies — NEW FEATURE 1 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=🏆%20GitHub%20Trophies&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 ## 🏆 GitHub Profile Summary
@@ -126,6 +181,17 @@ omar = {
 </div>
 
 ---
+
+<!-- ⏱️ WakaTime Coding Activity — NEW FEATURE 2 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&section=header&text=⏱️%20Coding%20Activity%20%28WakaTime%29&fontSize=28&fontColor=fff&animation=twinkling"/>
+</div>
+
+<div align="center">
+
+[![Waka Readme](https://github-readme-stats.vercel.app/api/wakatime?username=omarrama555&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&layout=compact)](https://wakatime.com/@omarrama555)
+
+</div>
 
 ---
 
@@ -398,25 +464,6 @@ omar = {
     <tr><td>ECPC / ACPC Programming</td><td>–</td><td>2023</td><td><a href="https://drive.google.com/file/d/1HrOV2VPXCxKJ6L1QsehxJnz7BgHNoUXC/view?usp=drivesdk">View</a></td></tr>
   </tbody>
 </table>
-
----
-
-<!-- 🌈 FEATURE 9: Colorful Quote / Motivation Banner -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=💬%20%22In%20God%20we%20trust%3B%20all%20others%20must%20bring%20data%22&fontSize=18&fontColor=fff&animation=fadeIn"/>
-</div>
-
----
-
-<!-- 🌈 FEATURE 10: Colorful Metrics Row -->
-<div align="center">
-
-![](https://img.shields.io/badge/🚀_Projects_Built-5%2B-00D9FF?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/📜_Certificates-22%2B-7B2FBE?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/💼_Experience-2%2B_Years-FF6B6B?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/🌍_Clients_Served-10%2B-00C851?style=for-the-badge&labelColor=0D1117)
-
-</div>
 
 ---
 
