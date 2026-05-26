@@ -100,7 +100,6 @@ My sweet spot is where **data meets storytelling** — building dashboards that 
 <br/><br/>
 
 **📬 Contact**
-<img src="https://github.com/omarrama555.png" alt="Omar Ramadan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #00D9FF;" />
 
 [![Gmail](https://img.shields.io/badge/omarramadan88888888g@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarramadan88888888g@gmail.com)
 
