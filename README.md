@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20Ramadan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:7B2FBE,60:00D9FF,100:FF6B6B&height=220&section=header&text=Omar%20Ramadan&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=56&descSize=20&stroke=00D9FF&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Meaningful+Insights+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;Passionate+about+Data+%26+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Turning+Raw+Data+into+Meaningful+Insights;💡+SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Tableau;🤖+Passionate+about+Data+%26+Artificial+Intelligence;📊+Building+the+Future+with+Data+%26+AI)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/🔥_Status-Open_to_Opportunities-00D9FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📍_Location-Cairo%2C_Egypt-FF6B6B?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🎓_Graduating-June_2026-7B2FBE?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -16,9 +24,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarramadan555)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarramadan88888888g@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarrama555)
+[![GitHub](https://img.shields.io/badge/GitHub-7B2FBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarrama555)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://omarrama555.github.io/)
-[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1PomQT_g22FvhLOiY-45NID_4ismZj2aG/view?usp=drivesdk)
+[![CV](https://img.shields.io/badge/📄_Download_CV-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1PomQT_g22FvhLOiY-45NID_4ismZj2aG/view?usp=drivesdk)
 
 </div>
 
@@ -47,20 +55,20 @@ omar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarrama555&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7B2FBE)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarrama555&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00D9FF&line=7B2FBE&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -70,7 +78,7 @@ omar = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=tokyonight&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -162,36 +170,36 @@ omar = {
 
 <div align="center">
 
-**Languages**
+**⚡ Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=postgresql&logoColor=black)
+![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**BI & Analytics**
+**📊 BI & Analytics**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Python Libraries**
+**🐍 Python Libraries**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7B2FBE?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00D9FF?style=for-the-badge&logo=python&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Databases & Cloud**
+**☁️ Databases & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**Dev Tools**
+**🛠️ Dev Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-7B2FBE?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-00D9FF?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 </div>
@@ -288,11 +296,11 @@ omar = {
 
 <table align="center" style="width:90%; font-size:15px; border-collapse:collapse;">
   <thead>
-    <tr style="background-color:#1a1b27; color:#00d9ff;">
-      <th style="padding:10px; border:1px solid #30363d;">📋 Certificate</th>
-      <th style="padding:10px; border:1px solid #30363d;">🏢 Issuer</th>
-      <th style="padding:10px; border:1px solid #30363d;">📅 Year</th>
-      <th style="padding:10px; border:1px solid #30363d;">🔗 Link</th>
+    <tr style="background: linear-gradient(90deg, #7B2FBE, #00D9FF); color:#fff;">
+      <th style="padding:12px; border:1px solid #30363d;">📋 Certificate</th>
+      <th style="padding:12px; border:1px solid #30363d;">🏢 Issuer</th>
+      <th style="padding:12px; border:1px solid #30363d;">📅 Year</th>
+      <th style="padding:12px; border:1px solid #30363d;">🔗 Link</th>
     </tr>
   </thead>
   <tbody>
@@ -331,7 +339,7 @@ omar = {
 &nbsp;
 <a href="https://linkedin.com/in/omarramadan555"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/omarrama555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/omarrama555"><img src="https://img.shields.io/badge/GitHub-7B2FBE?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
 <a href="https://omarrama555.github.io/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
@@ -341,14 +349,14 @@ omar = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=👀%20Profile%20Views&color=00d9ff&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=omarrama555&label=👀%20Profile%20Views&color=7B2FBE&style=for-the-badge)
 &nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💙%20Followers&style=for-the-badge&color=0a66c2)
+![GitHub followers](https://img.shields.io/github/followers/omarrama555?label=💙%20Followers&style=for-the-badge&color=00D9FF)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=120&section=footer&reversal=true"/>
 
 </div>
