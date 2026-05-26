@@ -51,7 +51,7 @@
 
 ---
 
-<!-- 🌈 Animated Rainbow Divider -->
+<!-- Animated Rainbow Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
 <!-- ✨ ABOUT ME — Redesigned -->
@@ -117,7 +117,7 @@ My sweet spot is where **data meets storytelling** — building dashboards that 
 
 ---
 
-<!-- 🌈 FEATURE 3: Colorful Progress Bars for Skills -->
+<!--  FEATURE 3: Colorful Progress Bars for Skills -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&section=header&text=⚡%20Skill%20Proficiency&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
@@ -140,8 +140,8 @@ My sweet spot is where **data meets storytelling** — building dashboards that 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-git-masterorcl-anuraghazra1.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=omarrama555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=omarrama555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
 
