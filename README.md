@@ -116,7 +116,7 @@ omar = {
 
 <div align="center">
 
-![Snake animation](https://github.com/omarrama555/omarrama555/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/omarrama555/omarrama555/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
