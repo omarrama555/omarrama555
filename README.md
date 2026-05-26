@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:7B2FBE,60:00D9FF,100:FF6B6B&height=220&section=header&text=Omar%20Ramadan&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=56&descSize=20&stroke=00D9FF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Omar%20Ramadan&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=56&descSize=20"/>
 
 </div>
 
@@ -32,7 +32,13 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- 🌈 FEATURE 1: Animated Rainbow Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+
+<!-- 🎯 FEATURE 2: Colorful About Me Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,12&height=60&section=header&text=👨‍💻%20About%20Me&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
 
 ```python
 omar = {
@@ -48,6 +54,25 @@ omar = {
 ```
 
 > 🎯 Results-driven analyst skilled in **SQL · Python · Power BI · Excel**. Passionate about leveraging predictive analytics and interactive dashboards to drive strategic business decisions.
+
+---
+
+<!-- 🌈 FEATURE 3: Colorful Progress Bars for Skills -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&section=header&text=⚡%20Skill%20Proficiency&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
+
+<div align="center">
+
+| Skill | Proficiency |
+|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://geps.dev/progress/90?dangerColor=800000&warningColor=FF6B6B&successColor=00D9FF) |
+| ![SQL](https://img.shields.io/badge/SQL-85%25-00D9FF?style=flat-square&logo=postgresql&logoColor=black) | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=FF6B6B&successColor=7B2FBE) |
+| ![Power BI](https://img.shields.io/badge/Power_BI-80%25-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=FF6B6B&successColor=F2C811) |
+| ![Excel](https://img.shields.io/badge/Excel-88%25-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | ![](https://geps.dev/progress/88?dangerColor=800000&warningColor=FF6B6B&successColor=00C851) |
+| ![Machine Learning](https://img.shields.io/badge/ML-75%25-FF6B6B?style=flat-square&logo=scikit-learn&logoColor=white) | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=FF6B6B&successColor=FF6B6B) |
+
+</div>
 
 ---
 
@@ -84,7 +109,23 @@ omar = {
 
 ---
 
-## 💼 Work Experience
+<!-- 🌈 FEATURE 4: Colorful Snake Animation -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=🐍%20Contribution%20Snake&fontSize=30&fontColor=fff"/>
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/omarrama555/omarrama555/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!-- 🌈 FEATURE 5: Colorful Work Experience Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3,9,19&height=60&section=header&text=💼%20Work%20Experience&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
 
 <table>
 <tr>
@@ -152,7 +193,10 @@ omar = {
 
 ---
 
-## 🎓 Education
+<!-- 🌈 FEATURE 6: Colorful Education Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,12,20&height=60&section=header&text=🎓%20Education&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
 
 <div align="center">
 
@@ -248,7 +292,10 @@ omar = {
 
 ---
 
-## 📂 Featured Projects
+<!-- 🌈 FEATURE 7: Colorful Projects Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,19,20&height=60&section=header&text=📂%20Featured%20Projects&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
 
 <div align="center">
 
@@ -290,7 +337,10 @@ omar = {
 
 ---
 
-## 📜 Certificates
+<!-- 🌈 FEATURE 8: Colorful Certificates Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=60&section=header&text=📜%20Certificates&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
 
 <h3 align="center">🏅 Certifications & Achievements</h3>
 
@@ -331,6 +381,25 @@ omar = {
 
 ---
 
+<!-- 🌈 FEATURE 9: Colorful Quote / Motivation Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,25,30&height=80&section=header&text=💬%20%22In%20God%20we%20trust%3B%20all%20others%20must%20bring%20data%22&fontSize=18&fontColor=fff&animation=fadeIn"/>
+</div>
+
+---
+
+<!-- 🌈 FEATURE 10: Colorful Metrics Row -->
+<div align="center">
+
+![](https://img.shields.io/badge/🚀_Projects_Built-5%2B-00D9FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📜_Certificates-22%2B-7B2FBE?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/💼_Experience-2%2B_Years-FF6B6B?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🌍_Clients_Served-10%2B-00C851?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -357,6 +426,6 @@ omar = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=120&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
