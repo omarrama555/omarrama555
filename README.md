@@ -103,7 +103,7 @@ omar = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarrama555&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-max.vercel.app/?username=omarrama555&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
