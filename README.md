@@ -99,13 +99,17 @@ omar = {
 
 ---
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Profile Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-max.vercel.app/?username=omarrama555&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarrama555&theme=tokyonight" alt="Omar's Profile Summary" />
 
 </div>
+
+---
 
 ---
 
