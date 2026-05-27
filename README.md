@@ -190,18 +190,7 @@ My sweet spot is where **data meets storytelling** — building dashboards that 
 
 </div>
 
----
 
-<!-- ⏱️ WakaTime Coding Activity — NEW FEATURE 2 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,19,20&height=60&section=header&text=⏱️%20Coding%20Activity%20%28WakaTime%29&fontSize=28&fontColor=fff&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-[![Waka Readme](https://github-readme-stats.vercel.app/api/wakatime?username=omarrama555&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&layout=compact)](https://wakatime.com/@omarrama555)
-
-</div>
 
 ---
 
